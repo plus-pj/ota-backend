@@ -3,10 +3,6 @@
   "file": "ecu_image_v1.0.0.bin",
   "url": "https://github.com/plus-pj/ota-backend/releases/download/v1.0.0/ecu_image_v1.0.0.bin",
   "sha256": "b02c64f56df08991e30f137596834da28b0085e34d677add732191b6d25a160b",
-  "signature": "m4lVEofuN6lEDJsLSB3nYz5BowbuwJGDO2Vi9/SAM8uqiGPDjyzhfQ0Nw3cITtZlvKnnSX7D8GJI
-TMgoeWA1H+uUIniiUuJS95SD0Z/hdNye2W2n2XeqKrJJ90cGt7BJ+IkgjcrezlzDIYm43dSrGCtI
-SOeBJhNjrtDxBgxs49RsSBoJldiKHzF4iwytRAX6tb8B9tz0/pJjfvi07tUe+K/SYTuiJZnZuvqo
-eMzouWxzinlNm0WOR1Z+tJT0Akj1Ty1m3Ru0FQPxeJ0uybWRqhIV16UcHiLn7uRcIIPwj6IeoVxv
-PXTAPhENyJXYmhahL/lAObt+96GCEQiWRhVGxw=="
+  "signature": "m4lVEofuN6lEDJsLSB3nYz5BowbuwJGDO2Vi9/SAM8uqiGPDjyzhfQ0Nw3cITtZlvKnnSX7D8GJITMgoeWA1H+uUIniiUuJS95SD0Z/hdNye2W2n2XeqKrJJ90cGt7BJ+IkgjcrezlzDIYm43dSrGCtISOeBJhNjrtDxBgxs49RsSBoJldiKHzF4iwytRAX6tb8B9tz0/pJjfvi07tUe+K/SYTuiJZnZuvqoeMzouWxzinlNm0WOR1Z+tJT0Akj1Ty1m3Ru0FQPxeJ0uybWRqhIV16UcHiLn7uRcIIPwj6IeoVxvPXTAPhENyJXYmhahL/lAObt+96GCEQiWRhVGxw=="
 }
 
